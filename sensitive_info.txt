@@ -1,2 +1,2 @@
-Password: ILoveDogs 
-Private Key: CatsAreAlsoFine 
+Password: ***Insert your first name here*** 
+Private Key: RickRoll 
